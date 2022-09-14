@@ -1,6 +1,8 @@
 const modal = document.querySelector('.modal');
 const menu = document.querySelector('.menu');
 const closeMenu = document.querySelector('.close-menu');
+const eloseMenu = document.querySelector('.close-menu');
+
 
 menu.addEventListener('click', () => {
     modal.classList.add('open-modal');
