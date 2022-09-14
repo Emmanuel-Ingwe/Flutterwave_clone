@@ -632,8 +632,8 @@ a {
 
 @media only screen and (max-width: 700px) {
   * {
-    -webkit-transition: all 0.5s;
-    transition: all 0.5s;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
     scroll-behavior: smooth;
   }
   .btn {
